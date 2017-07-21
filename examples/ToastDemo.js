@@ -9,7 +9,6 @@ import {
     Button,
 } from 'react-native';
 import {StackNavigator} from "react-navigation";
-
 import {ToastContainer} from 'react-native-mobx-toast'
 import Toast from 'react-native-mobx-toast'
 
